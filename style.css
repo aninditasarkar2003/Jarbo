@@ -1,0 +1,19 @@
+.main{
+    height: 300px;
+}
+
+
+.left{
+    height: 200px;
+    background-color: pink;
+}
+
+.right{
+    height: 200px;
+    background-color: beige;
+}
+
+.middle{
+    height: 200px;
+    background-color: palevioletred;
+}
